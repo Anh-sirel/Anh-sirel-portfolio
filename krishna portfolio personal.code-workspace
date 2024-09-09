@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "smith-portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "smith-portfolio"
+	}
+}
